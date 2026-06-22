@@ -79,36 +79,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png" group-title="News",BTV Shangshad
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="somoytv" tvg-name="Somoy TV" group-title="News",Somoy TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="jamunatv" tvg-name="Jamuna TV" group-title="News",Jamuna TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ekattor" tvg-name="Ekattor TV" group-title="News",Ekattor TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" group-title="Bangladesh",Channel i
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
-
-#EXTINF:-1 tvg-id="atnbangla" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
-https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_bangla/playlist.m3u8
-
-#EXTINF:-1 tvg-id="independenttv" tvg-name="Independent TV" group-title="News",Independent TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonyten1" tvg-name="Sony Sports Ten 1 HD" group-title="Sports",Sony Sports Ten 1 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonyten2" tvg-name="Sony Sports Ten 2 HD" group-title="Sports",Sony Sports Ten 2 HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tencricket" tvg-name="Sony Ten Cricket" group-title="Sports",Sony Ten Cricket
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
-
-#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" group-title="Entertainment",Zee Bangla
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
-
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath" group-title="Entertainment",Sony Aath
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 

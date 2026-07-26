@@ -6,6 +6,9 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
+#EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Btv
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Bhooth Bangla" tvg-name="Bhooth Bangla" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
 https://fmftp.net/api/stream/video/stream?type=movies&id=20813
 
@@ -66,6 +69,15 @@ http://starhub.pro/live/Anthony2/Anthony123/98882.ts
 #EXTINF:-1 tvg-id="Indian Institute of Zombies" tvg-name="Indian Institute of Zombies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
 https://fmftp.net/api/stream/video/stream?type=movies&id=20900
 
+#EXTINF:-1 tvg-id="Sony Aath" tvg-name="Sony Aath" group-title="Entertainment",Sony Aath
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" group-title="Kids",Cartoon Network HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" group-title="Kids",Pogo
+https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Zee 24 Ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian Bangla News",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
@@ -117,14 +129,32 @@ http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
 #EXTINF:-1 tvg-id="WIN Sports" tvg-name="WIN Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",WIN Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FOX
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
 #EXTINF:-1 tvg-id="FS2" tvg-name="FS2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",FS2
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV" tvg-name="PTV" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",PTV
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",DAZN 1
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 tvg-id="ESPN S1" tvg-name="ESPN S1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",ESPN S1
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN S2" tvg-name="ESPN S2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",ESPN S2
 http://186.33.40.97:8789/play/20
+
+#EXTINF:-1 tvg-id="TVRI sport" tvg-name="TVRI sport" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",TVRI sport
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNS 1" tvg-name="TNS 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",TNS 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
@@ -135,11 +165,20 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 #EXTINF:-1 tvg-id="Unite 8 Sports 1 HD" tvg-name="Unite 8 Sports 1 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Unite 8 Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
 
+#EXTINF:-1 tvg-id="Unite 8 Sports 2 HD" tvg-name="Unite 8 Sports 2 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Unite 8 Sports 2 HD
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
 #EXTINF:-1 tvg-id="TVP Sports" tvg-name="TVP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",M6
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="S Football" tvg-name="S Football" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",S Football
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+
+#EXTINF:-1 tvg-id="T Sports HD" tvg-name="T Sports HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",T Sports HD
+https://trs1.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-id="PTV 4K" tvg-name="PTV 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",PTV 4K
 http://starhub.pro/live/farhat-3379/67897-913379/89.ts
@@ -254,6 +293,9 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20933
 
 #EXTINF:-1 tvg-id="Karuppu" tvg-name="Karuppu" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY4NWY2MWQtMGFkMi00MDViLWEwZDgtNGMyZjA3MmYzMWU5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Karuppu
 https://fmftp.net/api/stream/video/stream?type=movies&id=20948
+
+#EXTINF:-1 tvg-id="Arjun S/O Vyjayanthi" tvg-name="Arjun S/O Vyjayanthi" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYzZDRhNTgtZGI1MS00NGZiLTkwNzYtMzE2NzlmZjE2MmRhXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Arjun S/O Vyjayanthi
+https://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/Arjun-Son-Of-Vyjayanthi-2025/Arjun-Son-Of-Vyjayanthi-2025-1080p-WEBDL-Hindi-HQ-Studio-Dub_reencoded.mp4
 
 #EXTINF:-1 tvg-id="Peddi" tvg-name="Peddi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiM2VjZTUtZTI5My00MjhmLWJjMGEtMzU1MmRhYTY2NjdlXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Peddi
 https://fmftp.net/api/stream/video/stream?type=movies&id=20931
@@ -374,6 +416,48 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20271
 
 #EXTINF:-1 tvg-id="Shontaan" tvg-name="Shontaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3ODhkZTgtNTVkMC00NTRmLWIzMjctNzY0YmIxZGFjOTY4XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Shontaan
 https://fmftp.net/api/stream/video/stream?type=movies&id=18637
+
+#EXTINF:-1 tvg-id="Animal" tvg-name="Animal" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThmNDg1NjUtNWJhMC00YjA3LWJiMjItNmM4ZDQ5ZGZiN2Y2XkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Animal
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Animal-2023/Animal%20%282023%29%20Hindi%20NF%20WEB-DL%202160p_h264_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Article 370" tvg-name="Article 370" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Article_370_film_poster.jpeg/250px-Article_370_film_poster.jpeg" group-title="4K Hindi Movies",Article 370
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Article-370-2024/Article.370.2024.2160p.NF.WEB-DL.DDP5.1.HEVC_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Bad Newz" tvg-name="Bad Newz" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QxNGM0OTItMjE1MS00ZjRiLTg3ZTItMTg1NGMyNmRiMjc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Hindi Movies",Bad Newz
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bad-Newz-2024/Bad.Newz.2024.2160p.AMZN.WEB-DL.DDP5.1.HDR_h264_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Bajirao Mastani" tvg-name="Bajirao Mastani" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNjYzk0NDMtNjU3NC00ZTRhLTkwNmMtN2FhYzc5MmNiNjg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Hindi Movies",Bajirao Mastani
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bajirao-Mastani-2015/Bajirao-Mastani-2015-4K-BluRay_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Bholaa" tvg-name="Bholaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMzYzZiNWYtZDNlMy00YzIwLTk3YWYtYmMyZjc3NGQ5ZTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Hindi Movies",Bholaa
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bholaa-2023-4K/Bholaa%20%282023%29%202160p%20WEB-DL%20Hindi%20DDP5.1%20H264_h264_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Bol Bachchan" tvg-name="Bol Bachchan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Bol_Bachchan.jpg" group-title="4K Hindi Movies",Bol Bachchan
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bol-Bachchan-2012-4K/Bol-Bachchan-2012-2160p-BluRay_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Brahmastra Part One Shiva" tvg-name="Brahmastra Part One Shiva" tvg-logo="https://resizing.flixster.com/Pqi5P6v8Vu_hAAh3O9edOTpM7H0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzODFmYWI3LTA0OTAtNGZmNy05NGI5LWYzMGUxY2M0NDhkMC5qcGc=" group-title="4K Hindi Movies",Brahmastra Part One Shiva
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Brahmastra-Part-One-Shiva-2022-4K/Brahmastra%20Part%20One%20Shiva%202022%20Hindi%20WEB-DL%204K%20UHD%20HEVC_h264_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Chandu Champion" tvg-name="Chandu Champion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Chandu_Champion_film_poster.jpg" group-title="4K Hindi Movies",Chandu Champion
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Chandu-Champion-2024-4K/Chandu.Champion.2024.4K-2160p.HEVC.AMZN.WEB-DL.Hindi.DDP.5.1.ESub.x265_h264_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Chhaava" tvg-name="Chhaava" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI4N2Y5NWUtNzEwOC00YjYzLWEzY2ItN2YwYTIxYzBjZGZmXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Chhaava
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Chhaava-2025-4K/Chhaava-2025-2160p-WEBDL-Hindi_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Crew" tvg-name="Crew" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJlYjk1ZGMtMGUzYS00NWEwLTliNTktOTE3NzRjOGY1Mzg5XkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Crew
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Crew-2024-4K/Crew.2024.2160p.NF.WEB-DL.DDP5.1.SDR.H265_h264_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Dhoom 3" tvg-name="Dhoom 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIxODBmZjYtYWM3Ny00N2U1LWI3M2ItMzZkNmQ4NWYyNDFlXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Dhoom 3
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Dhoom-3-2013-4K/Dhoom%203%20%282013%29%20-%204K%20UHD%20BluRay_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Dhurandhar" tvg-name="Dhurandhar" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA3MDQ3ODAtNjcyMi00ODQ3LWEyZDMtMjliMzM0MGU3N2ZhXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Dhurandhar
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Dhurandhar-2025-4K/Dhurandhar-2025-2160p-Hindi-WEBDL_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Dhurandhar The Revenge" tvg-name="Dhurandhar The Revenge" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Dhurandhar The Revenge
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Dhurandhar-The-Revenge-2026-4K/Dhurandhar-The-Revenge-2026-2160p-Hindi-WEBDL_reencoded.mp4
+
+#EXTINF:-1 tvg-id="Drishyam 2" tvg-name="Drishyam 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxYmY0ZjYtMzBlZS00NDViLWJlN2UtMjgwNGFjZmRiMmQxXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Drishyam 2
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Drishyam-2-2022-4K/Drishyam%202%20%282022%29%202160p%20AMZN%20WEB-DL%20DDP5.1%20HEVC_h264_reencoded.mp4
 
 #EXTINF:-1 tvg-id="DBC News HD" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
@@ -509,10 +593,3 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 #EXTINF:-1 tvg-id="Sports Range" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779610478709.png" group-title="Sports",Sports Range
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IndiaPlaylist" tvg-name="India IPTV Playlist" tvg-logo="https://iptv-org.github.io/assets/images/logo.png" group-title="Playlists",India IPTV Playlist
-https://iptv-org.github.io/iptv/countries/in.m3u
-
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-name="Sangeet Bangla" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music",Sangeet Bangla (720p)
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-

@@ -3,26 +3,20 @@
 #EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Ekattor HD" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
 #EXTINF:-1 tvg-id="Zee Bangla" tvg-name="Zee Bangla" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-name="Sangeet Bangla" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music",Sangeet Bangla (720p)
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="Bhooth Bangla" tvg-name="Bhooth Bangla" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
-https://fmftp.net/api/stream/video/stream?type=movies&id=20813
-
-#EXTINF:-1 tvg-id="2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh" tvg-name="2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Bangla Movies",2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh
-https://fmftp.net/api/stream/video/stream?type=movies&id=20888
-
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-id="Maasranga TV" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Entertainment",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-#EXTINF:-1 tvg-id="Ekattor HD" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel 24 HD" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -65,9 +59,6 @@ http://starhub.pro/live/Anthony2/Anthony123/435.ts
 
 #EXTINF:-1 tvg-id="Colors Bangla 4K" tvg-name="Colors Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest?cb=20240314081816" group-title="Bangla",Colors Bangla 4K
 http://starhub.pro/live/Anthony2/Anthony123/98882.ts
-
-#EXTINF:-1 tvg-id="Indian Institute of Zombies" tvg-name="Indian Institute of Zombies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
-https://fmftp.net/api/stream/video/stream?type=movies&id=20900
 
 #EXTINF:-1 tvg-id="Zee 24 Ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian Bangla News",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
@@ -152,6 +143,15 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 #EXTINF:-1 tvg-id="Tudn Sports" tvg-name="Tudn Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Tudn Sports
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
+#EXTINF:-1 tvg-id="Bhooth Bangla" tvg-name="Bhooth Bangla" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
+https://fmftp.net/api/stream/video/stream?type=movies&id=20813
+
+#EXTINF:-1 tvg-id="2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh" tvg-name="2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Bangla Movies",2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh
+https://fmftp.net/api/stream/video/stream?type=movies&id=20888
+
+#EXTINF:-1 tvg-id="Indian Institute of Zombies" tvg-name="Indian Institute of Zombies" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
+https://fmftp.net/api/stream/video/stream?type=movies&id=20900
 
 #EXTINF:-1 tvg-id="Hai Jawani Toh Ishq Hona Hai" tvg-name="Hai Jawani Toh Ishq Hona Hai" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hai Jawani Toh Ishq Hona Hai
 https://fmftp.net/api/stream/video/stream?type=movies&id=20935
@@ -515,9 +515,6 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IndiaPlaylist" tvg-name="India IPTV Playlist" tvg-logo="https://iptv-org.github.io/assets/images/logo.png" group-title="Playlists",India IPTV Playlist
 https://iptv-org.github.io/iptv/countries/in.m3u
-
-
-
 
 #EXTINF:-1 tvg-id="AbzyMovies.in@SD" tvg-logo="https://i.imgur.com/LnVgKVF.png" group-title="Movies",Abzy Movies (480p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
